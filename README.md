@@ -91,13 +91,7 @@ A mobile learning application focused on interactive programming challenges.
 
 ---
 
-### 🎥 SineKampus
 
-A mobile movie application adapted for exploring films organized around academic departments.
-
-**Stack:** React Native • Expo • TypeScript
-
----
 
 ## 🎯 What I'm Working Toward
 
