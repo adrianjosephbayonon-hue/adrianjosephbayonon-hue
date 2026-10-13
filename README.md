@@ -127,6 +127,7 @@ Rather than focusing on one technology, I want to understand how the different p
 If you're interested in software development, student projects, or collaborating on an application, feel free to connect.
 
 **GitHub:** [Zathon](https://github.com/adrianjosephbayonon-hue)
+**Email:**  [Adrian](adrianjosephbayonon@gmail.com)
 
 ---
 
