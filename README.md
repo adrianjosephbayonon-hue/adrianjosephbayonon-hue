@@ -1,4 +1,4 @@
-# Hi, I'm Adrian Joseph 👋
+# Hi, I'm Adrian Joseph 
 
 ### BS Computer Science Student • Software Developer
 
@@ -8,15 +8,15 @@ I enjoy turning ideas into working applications and exploring how the same probl
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 3rd-year BS Computer Science student
-- 💻 Interested in software and application development
-- 🌱 Currently expanding my skills in JavaScript, Java, Python, TypeScript, and full-stack development
-- 📱 Exploring mobile application development with React Native and Expo
-- 🗄️ Learning more about backend systems and database design
-- 🧠 Interested in programming languages and software engineering
-- 🚀 Building academic and personal projects to strengthen my development skills
+-  3rd-year BS Computer Science student
+-  Interested in software and application development
+-  Currently expanding my skills in JavaScript, Java, Python, TypeScript, and full-stack development
+-  Exploring mobile application development with React Native and Expo
+-  Learning more about backend systems and database design
+-  Interested in programming languages and software engineering
+-  Building academic and personal projects to strengthen my development skills
 
 ---
 
@@ -54,9 +54,9 @@ I enjoy turning ideas into working applications and exploring how the same probl
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📚 AJ Learning Hub
+### AJ Learning Hub
 
 A full-stack learning platform built with React, Express, and PostgreSQL.
 
@@ -64,7 +64,7 @@ A full-stack learning platform built with React, Express, and PostgreSQL.
 
 ---
 
-### 🎬 CineVault
+###  CineVault
 
 A movie and TV exploration application with browsing, search, watchlist functionality, and API integration.
 
@@ -72,7 +72,7 @@ A movie and TV exploration application with browsing, search, watchlist function
 
 ---
 
-### 🏧 ATM Simulator
+###  ATM Simulator
 
 A functional ATM simulation developed in both JavaScript and Java as a Programming Languages project.
 
@@ -83,7 +83,7 @@ The project explores how the same application can be implemented using different
 ---
 
 
-### 📱 CodeQuest
+###  CodeQuest
 
 A mobile learning application focused on interactive programming challenges.
 
@@ -93,7 +93,7 @@ A mobile learning application focused on interactive programming challenges.
 
 
 
-## 🎯 What I'm Working Toward
+##  What I'm Working Toward
 
 I'm working toward becoming a well-rounded software developer by building applications across different areas:
 
@@ -122,7 +122,7 @@ Rather than focusing on one technology, I want to understand how the different p
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianjosephbayonon-hue&layout=compact&hide_border=true)
 ---
 
-## 📫 Connect
+##  Connect
 
 If you're interested in software development, student projects, or collaborating on an application, feel free to connect.
 
