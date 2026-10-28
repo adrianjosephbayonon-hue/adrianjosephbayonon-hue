@@ -1,6 +1,6 @@
 # Hi, I'm Adrian Joseph 
 
-### BS Computer Science Student • Software Developer
+### BS Computer Science Student 
 
 I'm a 3rd-year BS Computer Science student focused on building practical applications while continuously improving my skills in software development, programming languages, databases, and mobile development.
 
